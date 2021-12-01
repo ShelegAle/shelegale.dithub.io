@@ -1,2 +1,2 @@
-# shelegale.dithub.io
-Мой первый хостинг
+# shelegale.github.io
+Мой первый хостинг на github
